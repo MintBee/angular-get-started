@@ -29,6 +29,7 @@ import { ShippingComponent } from './shipping/shipping.component';
     TopBarComponent,
     ProductListComponent,
     ProductAlertsComponent,
+    CartComponent,
     ProductDetailsComponent,
     ShippingComponent,
   ],
